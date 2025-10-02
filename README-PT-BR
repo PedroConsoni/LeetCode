@@ -1,0 +1,13 @@
+The README you are accessing is in Portuguese-BR, if you prefer to access the README in English, [click here](README-PT-BR.md)
+
+# LeetCode
+
+Este repositório contém minhas soluções para vários problemas do [LeetCode](https://leetcode.com/).
+O objetivo é praticar lógica de programação, estruturas de dados e algoritmos, bem como acompanhar meu progresso de aprendizagem.
+
+---
+
+## 📚 Estrutura do Repositório
+
+- Cada pasta contém soluções onde explico como resolvi o problema e os resultados obtidos (Tempo de Execução e Memória).
+- Os arquivos são nomeados de acordo com o problema ou o número LeetCode correspondente.
