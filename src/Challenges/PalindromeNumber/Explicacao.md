@@ -39,4 +39,4 @@ Se forem iguais, o número é um **palíndromo**.
 
 ---
 
-***The README you are accessing is in Portuguese-BR, if you prefer to access the README in English, [click here](README.md)***
+***The explication you are accessing is in Portuguese-BR, if you prefer to access the explication in English, [click here](Explication.md)***
