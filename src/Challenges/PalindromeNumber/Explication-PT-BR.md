@@ -36,3 +36,7 @@ A ideia principal é **reverter os dígitos do número** e comparar o resultado 
 4. Após o loop, comparamos se o número invertido (`reverse`) é igual ao número original (`x`).
 
 Se forem iguais, o número é um **palíndromo**.
+
+---
+
+***The README you are accessing is in Portuguese-BR, if you prefer to access the README in English, [click here](README.md)***
