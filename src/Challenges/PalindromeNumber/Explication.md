@@ -38,4 +38,4 @@ If they are equal, the number is a **palindrome**.
 
 ---
 
-***The README you are accessing is in Portuguese-BR, if you prefer to access the README in English, [click here](Explicacao.md)***
+***O README que você está acessando está em inglês, caso prefira acessar o README em Português-BR, [clique aqui](Explicacao.md)***
