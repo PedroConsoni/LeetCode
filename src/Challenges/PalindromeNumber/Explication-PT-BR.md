@@ -1,6 +1,6 @@
-# 🧮 Palindrome Number — LeetCode Challenge
+# Palindrome Number — LeetCode Challenge
 
-## 📘 Descrição do Problema
+## Descrição do Problema
 
 Dado um número inteiro `x`, determine se ele é um **palíndromo**.  
 Um número é considerado **palíndromo** se ele lido de trás para frente for igual ao valor original.
@@ -23,7 +23,7 @@ Explicação: De trás para frente seria 01, não é igual.
 
 ---
 
-## 💡 Lógica da Solução
+## Lógica da Solução
 
 A ideia principal é **reverter os dígitos do número** e comparar o resultado com o valor original.
 
