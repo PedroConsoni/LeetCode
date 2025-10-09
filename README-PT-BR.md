@@ -10,7 +10,7 @@ Cada desafio é documentado em **português (PT-BR)** e **inglês (EN)**, inclui
 ## Estrutura do Repositório
 
 
-/
+```
 ├── Challenges/
 │ ├── Two Sum/
 │ │ ├── README-PT-BR.md
@@ -22,4 +22,4 @@ Cada desafio é documentado em **português (PT-BR)** e **inglês (EN)**, inclui
 │ │ └── solution.java
 │ └── ...
 └── README.md
-/
+```
