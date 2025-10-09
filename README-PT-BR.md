@@ -12,11 +12,11 @@ Cada desafio é documentado em **português (PT-BR)** e **inglês (EN)**, inclui
 
 ```
 ├── Challenges/
-│ ├── Two Sum/
+│ ├── TwoSum/
 │ │ ├── README-PT-BR.md
 │ │ ├── README-EN.md
 │ │ └── solution.java
-│ ├── Palindrome Number/
+│ ├── PalindromeNumber/
 │ │ ├── README-PT-BR.md
 │ │ ├── README-EN.md
 │ │ └── solution.java
