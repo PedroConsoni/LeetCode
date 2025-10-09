@@ -15,19 +15,19 @@ Cada desafio é documentado em **português (PT-BR)** e **inglês (EN)**, inclui
 │ ├── TwoSum/
 │ │ ├── README-PT-BR.md
 │ │ ├── README-EN.md
-│ │ └── solution.java
+│ │ └── Solution.java
 │ ├── PalindromeNumber/
 │ │ ├── README-PT-BR.md
 │ │ ├── README-EN.md
-│ │ └── solution.java
+│ │ └── Solution.java
 │ └── ...
 └── README.md
 ```
 
 Cada pasta contém:
-- **README-PT-BR.md** — explicação em português  
-- **README-EN.md** — explicação em inglês  
-- **Código-fonte** — solução implementada  
+- **README-PT-BR.md** — Explicação em português  
+- **README-EN.md** — Explicação em inglês  
+- **Solution.java** — Solução implementada  
 
 ---
 
@@ -64,5 +64,3 @@ Ela é essencial para avaliar a **eficiência** das soluções do LeetCode.
 | O(1) | Constante | Variáveis fixas |
 | O(n) | Linear | Estruturas proporcionais ao tamanho da entrada |
 | O(n²) | Quadrática | Matrizes bidimensionais |
-
----
