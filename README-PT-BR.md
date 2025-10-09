@@ -2,12 +2,24 @@
 
 # LeetCode
 
-Este repositório contém minhas soluções para vários problemas do [LeetCode](https://leetcode.com/).
-O objetivo é praticar lógica de programação, estruturas de dados e algoritmos, bem como acompanhar meu progresso de aprendizagem.
+Este repositório contém **minhas soluções para desafios do LeetCode**, escritas com foco em **clareza, desempenho e aprendizado contínuo**.  
+Cada desafio é documentado em **português (PT-BR)** e **inglês (EN)**, incluindo explicações da lógica e análise de complexidade com **Big O Notation**.
 
 ---
 
-## 📚 Estrutura do Repositório
+## Estrutura do Repositório
 
-- Cada pasta contém soluções onde explico como resolvi o problema e os resultados obtidos (Tempo de Execução e Memória).
-- Os arquivos são nomeados de acordo com o problema ou o número LeetCode correspondente.
+
+/
+├── Challenges/
+│ ├── Two Sum/
+│ │ ├── README-PT-BR.md
+│ │ ├── README-EN.md
+│ │ └── solution.java
+│ ├── Palindrome Number/
+│ │ ├── README-PT-BR.md
+│ │ ├── README-EN.md
+│ │ └── solution.java
+│ └── ...
+└── README.md
+/
