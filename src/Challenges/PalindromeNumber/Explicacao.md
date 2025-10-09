@@ -1,4 +1,4 @@
-# Palindrome Number — LeetCode Challenge
+# Palindrome Number — Desafio LeetCode
 
 ## Descrição do Problema
 
