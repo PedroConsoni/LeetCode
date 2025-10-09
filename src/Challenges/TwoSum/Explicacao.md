@@ -1,6 +1,6 @@
-# 🧮 Two Sum — Desafio LeetCode
+# Two Sum — Desafio LeetCode
 
-## 📘 Descrição do Problema
+## Descrição do Problema
 
 Dado um array de números inteiros `nums` e um inteiro `target`, retorne **os índices de dois números** tais que eles somem exatamente `target`.
 
