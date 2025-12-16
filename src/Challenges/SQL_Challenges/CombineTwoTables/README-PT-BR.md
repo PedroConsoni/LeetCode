@@ -105,7 +105,7 @@ Define como as tabelas se relacionam:
 
 ---
 
-## 📈 Resultado Esperado
+## Resultado Esperado
 
 | firstname | lastname | city     | state |
 | --------- | -------- | -------- | ----- |
@@ -128,3 +128,4 @@ Este desafio reforça conceitos fundamentais de SQL:
 
 ---
 
+***The explication you are accessing is in Portuguese-BR, if you prefer to access the explication in English, [click here](README-EN.md)***
