@@ -1,6 +1,6 @@
-# 🧩 LeetCode SQL – Big Countries
+# LeetCode SQL – Big Countries
 
-## 📌 Descrição do Desafio
+## Descrição do Desafio
 
 O desafio **"Big Countries"** do LeetCode tem como objetivo praticar a **filtragem de dados em SQL** utilizando a cláusula **WHERE** combinada com operadores lógicos.
 
@@ -18,7 +18,7 @@ O problema fornece uma tabela chamada `World`, que armazena informações sobre 
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 Retornar informações dos países que atendem **pelo menos um** dos critérios abaixo:
 
@@ -33,7 +33,7 @@ Retornar informações dos países que atendem **pelo menos um** dos critérios 
 
 ---
 
-## 🛠️ Solução em SQL
+## Solução em SQL
 
 ```sql
 SELECT w.name, w.population, w.area
@@ -43,9 +43,9 @@ WHERE area >= 3000000 OR population >= 25000000;
 
 ---
 
-## 🔍 Explicação da Query
+## Explicação da Query
 
-### 1️⃣ SELECT
+### SELECT
 
 ```sql
 SELECT w.name, w.population, w.area
@@ -59,7 +59,7 @@ Seleciona as colunas necessárias da tabela `World`:
 
 ---
 
-### 2️⃣ FROM
+### FROM
 
 ```sql
 FROM world w
@@ -69,7 +69,7 @@ Define a tabela de origem da consulta e utiliza um **alias (`w`)** para facilita
 
 ---
 
-### 3️⃣ WHERE com OR
+### WHERE com OR
 
 ```sql
 WHERE area >= 3000000 OR population >= 25000000
@@ -84,7 +84,7 @@ Basta **uma das condições ser verdadeira** para que o registro apareça no res
 
 ---
 
-## 📈 Resultado Esperado
+## Resultado Esperado
 
 | name          | population | area     |
 | ------------- | ---------- | -------- |
@@ -96,7 +96,7 @@ Basta **uma das condições ser verdadeira** para que o registro apareça no res
 
 ---
 
-## ✅ Conclusão
+## Conclusão
 
 Este desafio reforça conceitos fundamentais de SQL:
 
@@ -108,4 +108,4 @@ Este desafio reforça conceitos fundamentais de SQL:
 
 ---
 
-📚 *Desafio disponível em:* LeetCode – SQL
+***The explication you are accessing is in Portuguese-BR, if you prefer to access the explication in English, [click here](README-EN.md)***
