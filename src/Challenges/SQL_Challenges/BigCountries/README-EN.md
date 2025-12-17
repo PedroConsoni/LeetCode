@@ -108,3 +108,4 @@ It is a fundamental exercise for anyone learning **SQL basics and data filtering
 
 ---
 
+***A explicação que você está acessando está em inglês, caso prefira acessar a explicação em Português-BR, [clique aqui](README-PT-BR.md)***
