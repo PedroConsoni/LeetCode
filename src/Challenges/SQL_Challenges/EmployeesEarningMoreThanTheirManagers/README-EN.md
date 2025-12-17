@@ -33,7 +33,7 @@ Return the names of employees whose **salary is greater than the salary of their
 
 ---
 
-## 🛠️ SQL Solution
+## SQL Solution
 
 ```sql
 SELECT e.name AS Employee
@@ -108,4 +108,4 @@ It is an essential exercise for understanding **hierarchical relationships** in 
 
 ---
 
-📚 *Challenge available at:* LeetCode – SQL
+***A explicação que você está acessando está em inglês, caso prefira acessar a explicação em Português-BR, [clique aqui](README-PT-BR.md)***
