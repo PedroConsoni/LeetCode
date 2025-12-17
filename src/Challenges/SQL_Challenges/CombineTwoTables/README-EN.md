@@ -128,3 +128,4 @@ It is an essential exercise for anyone learning **SQL for data analysis or back-
 
 ---
 
+***A explicação que você está acessando está em inglês, caso prefira acessar a explicação em Português-BR, [clique aqui](README-PT-BR.md)***
