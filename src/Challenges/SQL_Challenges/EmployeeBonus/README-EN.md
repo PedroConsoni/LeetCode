@@ -138,4 +138,4 @@ It is an excellent exercise to strengthen knowledge of **joins and data filterin
 
 ---
 
-📚 *Challenge available at:* LeetCode – SQL
+***A explicação que você está acessando está em inglês, caso prefira acessar a explicação em Português-BR, [clique aqui](README-PT-BR.md)***
