@@ -116,3 +116,5 @@ This challenge reinforces key SQL concepts:
 It is a fundamental exercise for mastering **SQL querying logic and problem solving**.
 
 ---
+
+***A explicação que você está acessando está em inglês, caso prefira acessar a explicação em Português-BR, [clique aqui](README-PT-BR.md)***
